@@ -80,6 +80,16 @@ Responsible for all four of the companies' retail shops and all of the retail st
 processing payroll, hiring, training and occasionally disciplining staff, overseeing the eCommerce operation, general problem
 solving and troubleshooting.
 
+**The Easton** ()
+*General Manager*
+Responsible for the day-to-day running of the pub, specifically the front of house operations. Duties included hiring and
+training staff, organising events, dealing with customer grievances, payroll, writing rotas, resolving conflicts within the
+team, and stock control.
+
+**Pantha Karate Club**
+*Sensei*
+Responsible for supervising and teaching groups of students, aged between 5 and 18.
+
 ## Interests
 
 History, politics, cooking, modern and contemporary art, Karate, 
