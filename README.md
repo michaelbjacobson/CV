@@ -18,7 +18,7 @@ I've always enjoyed problem solving, lateral thinking and logical reasoning. I o
 
 #### Team Working
 
-Throughout my working life I've always worked in tight-knit teams, often in a leadership role. I thoroughly enjoy working as part of a team to achieve a goal.
+Throughout my working life I've always worked in tight-knit teams, often in a leadership role. I thoroughly enjoy working as part of a team to achieve a shared goal.
 
 -
 -
@@ -26,6 +26,8 @@ Throughout my working life I've always worked in tight-knit teams, often in a le
 -
 
 #### Communication
+
+I have a great deal of experience working in customer-facing roles where good communication is absolutely vital.
 
 -
 -
@@ -71,6 +73,12 @@ Throughout my working life I've always worked in tight-knit teams, often in a le
 - Git and GitHub
 
 ## Experience
+
+**Albam Clothing** (July 2015 - April 2017)
+*Retail Operations Manager*
+Responsible for all four of the companies' retail shops and all of the retail staff. Regular tasks and duties would involve processing payroll, hiring, training and occasionally disciplining staff, overseeing the eCommerce operation, general problem solving and troubleshooting.
+
+
 
 
 ## Interests
