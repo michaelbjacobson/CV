@@ -1,6 +1,6 @@
 # Michael Jacobson
 
-[KEY SKILLS](#keyskills) | [EDUCATION](#education) | [TECHNOLOGIES](#technologies) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | <a href="http://www.michaeljacobson.co.uk"/>WEBSITE</a>
+[KEY SKILLS](#key-skills) | [EDUCATION](#education) | [TECHNOLOGIES](#technologies) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | <a href="http://www.michaeljacobson.co.uk"/>WEBSITE</a>
 
 My professional background is in hospitality and retail management, most recently I worked as the Retail Operations Manager for a small, London-based menswear brand. Since early childhood (I grew up on my parents' Macintosh Performa 5200) I've loved computers and have had a fascination with coding. After feeling increasingly bored and under-challenged in my last job I had a eureka moment and decided that a career in software was for me. I succesfully applied to Makers Academy soon after this and am very much looking forward to beginning my new career.
 
@@ -100,4 +100,4 @@ classic cars, Americana, photography, popular music, cinema.
 
 #
 
-[SKILLS](#skills) | [EDUCATION](#education) | [TECHNOLOGIES](#technologies) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | <a href="http://www.michaeljacobson.co.uk"/>WEBSITE</a>
+[KEY SKILLS](#key-skills) | [EDUCATION](#education) | [TECHNOLOGIES](#technologies) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | <a href="http://www.michaeljacobson.co.uk"/>WEBSITE</a>
