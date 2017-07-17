@@ -54,6 +54,7 @@ I have a great deal of experience working in customer-facing roles where good co
 
 ## Technologies
 
+#### Intermediate
 - Python
   - Flask
 - Ruby
@@ -63,14 +64,16 @@ I have a great deal of experience working in customer-facing roles where good co
   - Node.js
     - Express.js
   - AngularJS
-- Rust
-- Clojure
-- Java
 - HTML
 - CSS
 - PostgreSQL
 - MacOS
 - Git and GitHub
+
+#### Beginner
+- Rust
+- Clojure
+- Java
 
 ## Experience
 
