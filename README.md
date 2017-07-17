@@ -81,13 +81,7 @@ processing payroll, hiring, training and occasionally disciplining staff, overse
 solving and troubleshooting.
 
 **The Easton**
-*Retail Operations Manager*  
-Responsible for the day-to-day running of the pub, specifically the front of house operations. Duties included hiring and
-training staff, organising events, dealing with customer grievances, payroll, writing rotas, resolving conflicts within the
-team, and stock control.
-
-**The Easton**
-*General Manager*
+*General Manager* 
 Responsible for the day-to-day running of the pub, specifically the front of house operations. Duties included hiring and
 training staff, organising events, dealing with customer grievances, payroll, writing rotas, resolving conflicts within the
 team, and stock control.
