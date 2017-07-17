@@ -36,12 +36,16 @@ Throughout my working life I've always worked in tight-knit teams, often in a le
 
 #### Makers Academy (May 2017 Cohort)
 
--
--
--
--
+- Learned and developed various professional skills and concepts
+  - Test-Driven Development
+  - SOLID principles
+  - Object-Oriented Programming
+  - Software Craftsmanship
+  - Elegant code
+  - Version control
+  - Language agnosticism
 
-#### Birkbeck, University of London ()
+#### Birkbeck, University of London
 
 - Modern British History
 - Early Modern European History
@@ -64,6 +68,7 @@ Throughout my working life I've always worked in tight-knit teams, often in a le
 - CSS
 - PostgreSQL
 - MacOS
+- Git and GitHub
 
 ## Experience
 
