@@ -84,3 +84,6 @@ solving and troubleshooting.
 
 History, politics, cooking, modern and contemporary art, Karate, 
 classic cars, Americana, photography, popular music, cinema.
+
+[SKILLS](#skills) | [EDUCATION](#education) | [TECHNOLOGIES](#technologies) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | <a href="http://www.michaeljacobson.co.uk"/>HOMEPAGE</a>
+
