@@ -74,8 +74,8 @@ I have a great deal of experience working in customer-facing roles where good co
 
 ## Experience
 
-**Albam Clothing** (July 2015 - April 2017)   
-*Retail Operations Manager*  
+**Albam Clothing** (July 2015 - April 2017)</br>
+*Retail Operations Manager*</br>
 Responsible for all four of the companies' retail shops and all of the retail staff. Regular tasks and duties would involve
 processing payroll, hiring, training and occasionally disciplining staff, overseeing the eCommerce operation, general problem
 solving and troubleshooting.
