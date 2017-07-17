@@ -8,7 +8,6 @@ My professional background is in hospitality and retail management, most recentl
 ## Skills
 
 #### Problem Solving
-
 *I've always enjoyed problem solving, lateral thinking and logical reasoning. I often find it surprisingly straightforward to teach myself new skills by applying a logical and practical approach to learning them.*
 
 - Over the past two years I taught myself a great deal of mechanic engineering and automotive maintenance - I recently overhauled the engine block in my car.
@@ -17,7 +16,6 @@ My professional background is in hospitality and retail management, most recentl
 -
 
 #### Team Working
-
 *Throughout my working life I've always worked in tight-knit teams, often in a leadership role. I thoroughly enjoy working as part of a team to achieve a goal.*
 
 -
