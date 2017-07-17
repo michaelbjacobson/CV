@@ -46,8 +46,6 @@ Throughout my working life I've always worked in tight-knit teams, often in a le
 - Modern British History
 - Early Modern European History
 
-#### Any other qualifications
-
 ## Technologies
 
 - Python
@@ -76,7 +74,4 @@ Throughout my working life I've always worked in tight-knit teams, often in a le
 
 ## Interests
 
--
--
--
--
+History, politics, cooking, modern and contemporary art, Karate, classic cars, Americana, photography, popular music.
