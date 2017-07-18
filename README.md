@@ -10,7 +10,7 @@ My professional background is in hospitality and retail management, most recentl
 #### Problem Solving
 
 - I've always enjoyed problem solving, lateral thinking and logical reasoning. I often find it surprisingly straightforward to teach myself new skills by applying a logical and practical approach to learning them.
-- Over the past two years I taught myself a great deal of mechanic engineering and automotive maintenance - I recently overhauled the engine block in my car.
+- Over the past two years I taught myself a great deal of mechanic engineering and automotive maintenance - I recently overhauled the engine block in my car, single handed.
 - I taught myself Python to an intermediate level in a few weeks at home whilst still at my previous job. I eventually built a simple Python program to automate an extremely repetetive task at work and saved myself and my team almost 8 hours a month.
 -
 
