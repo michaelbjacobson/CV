@@ -51,6 +51,7 @@ My professional background is in hospitality and retail management, most recentl
   - Node.js
     - Express.js
   - AngularJS
+  - jQuery
 - HTML
 - CSS
 - PostgreSQL
