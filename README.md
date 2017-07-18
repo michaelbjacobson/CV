@@ -2,7 +2,7 @@
 
 [KEY SKILLS](#key-skills) | [EDUCATION](#education) | [TECHNOLOGIES](#technologies) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | <a href="http://www.michaeljacobson.co.uk"/>WEBSITE</a>
 
-My professional background is in hospitality and retail management, most recently I worked as the Retail Operations Manager for a small, London-based menswear brand. Since early childhood (I grew up on my parents' Macintosh Performa 5200) I've loved computers and have had a fascination with coding. I've also always been passionate about building and fixing things, as well as taking them apart and trying to figure out what makes them tick. After feeling increasingly bored and under-challenged in my last job I had a eureka moment and decided that a career in software was for me. I succesfully applied to Makers Academy soon after this and am very much looking forward to beginning my new career.
+My professional background is in hospitality and retail management, most recently I worked as the Retail Operations Manager for a small, London-based menswear brand. Since early childhood (I grew up on my parents' Macintosh Performa 5200) I've loved computers and have had a fascination with coding. I've also always been passionate about building and fixing things, as well as taking them apart and trying to figure out what makes them tick. While feeling increasingly bored and under-challenged in my last job I had a eureka moment and decided that a career in software was for me. I succesfully applied to Makers Academy soon after this and am very much looking forward to beginning my new career.
 
 
 ## Key Skills
