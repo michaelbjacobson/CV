@@ -61,7 +61,9 @@ My professional background is in hospitality and retail management, most recentl
 #### Beginner
 - Rust
 - Clojure
+- Elixir
 - Java
+- Elm
 
 ## Experience
 
