@@ -21,6 +21,7 @@ My professional background is in hospitality and retail management, most recentl
 
 - I have a great deal of experience working in customer-facing roles where good communication is absolutely vital.
 
+
 ## Education
 
 #### Makers Academy (May 2017 Cohort)
@@ -56,6 +57,8 @@ My professional background is in hospitality and retail management, most recentl
 - CSS
 - PostgreSQL
 - MacOS
+- Linux
+- Raspberry Pi
 - Git and GitHub
 
 #### Beginner
@@ -64,6 +67,7 @@ My professional background is in hospitality and retail management, most recentl
 - Elixir
 - Java
 - Elm
+
 
 ## Experience
 
