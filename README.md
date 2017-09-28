@@ -67,6 +67,7 @@ My professional background is in hospitality and retail management, most recentl
 - Elixir
 - Java
 - Elm
+- Swift
 
 
 ## Experience
