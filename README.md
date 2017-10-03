@@ -54,6 +54,7 @@ My professional background is in hospitality and retail management, most recentl
   - AngularJS
   - jQuery
 - HTML
+- Markdown
 - CSS
 - PostgreSQL
 - MacOS
