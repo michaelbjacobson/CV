@@ -63,6 +63,7 @@ My professional background is in hospitality and retail management, most recentl
 - Git and GitHub
 
 #### Beginner
+- Lua
 - Rust
 - Clojure
 - Elixir
