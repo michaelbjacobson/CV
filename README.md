@@ -19,7 +19,7 @@ My professional background is in hospitality and retail management, most recentl
 
 #### Communication
 
-- I have a great deal of experience working in customer-facing roles where good communication is absolutely vital.
+- I have a great deal of experience working in customer-facing roles where good communication is absolutely vital. Not least during my four years of service in the Metropolitan Police Service.
 
 
 ## Education
@@ -27,7 +27,7 @@ My professional background is in hospitality and retail management, most recentl
 #### Makers Academy (May 2017 Cohort)
 
 - Learned and developed various professional skills and concepts
-  - Test-Driven Development
+  - Unit testing
   - SOLID principles
   - Object-Oriented Programming
   - Software Craftsmanship
@@ -48,6 +48,8 @@ My professional background is in hospitality and retail management, most recentl
 - Ruby
   - Sinatra
   - Rails
+- Java
+- Elixir
 - JavaScript
   - Node.js
     - Express.js
@@ -63,32 +65,29 @@ My professional background is in hospitality and retail management, most recentl
 - Git and GitHub
 
 #### Beginner
-- Lua
 - Rust
 - Clojure
-- Elixir
-- Java
+- C#
 - Elm
 - Swift
+- Go
 
 
 ## Experience
+
+**8th Light** (February 2018 - June 2018)<br>
+*Apprentice Software Crafter, full-time*<br>
+During my time as an apprentice at 8th Light I worked on a variety of programming paradigms: learning best-practices for functional programming, building on my existing knowledge of object-oriented programming, testing, exploring different typing disciplines etc. I left before completing my apprenticeship as decided the company was not a good culture fit.
+
+**Makers Academy** (November 2017 - January 2018)<br>
+*Technical coach, part-time*<br>
+Held one-on-one sessions, two or three days a week, with recent Makers graduates to offer technical. support and advice on jobhunting.
 
 **Albam Clothing** (July 2015 - April 2017)</br>
 *Retail Operations Manager, full-time*</br>
 Responsible for all four of the companies' retail shops and all of the retail staff. Regular tasks and duties would involve
 processing payroll, hiring, training and occasionally disciplining staff, overseeing the eCommerce operation, general problem
 solving and troubleshooting.
-
-**The Easton**</br> 
-*General Manager, full-time*</br>
-Responsible for the day-to-day running of the pub, specifically the front of house operations. Duties included hiring and
-training staff, organising events, dealing with customer grievances, payroll, writing rotas, resolving conflicts within the
-team, and stock control.
-
-**Pantha Karate Club**</br>
-*Sensei, part-time*</br>
-Responsible for supervising and teaching groups of students, aged between 5 and 18.
 
 **Metropolitan Police Service**</br>
 *Special Police Constable, part-time volunteer*
