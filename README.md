@@ -43,34 +43,36 @@ My professional background is in hospitality and retail management, most recentl
 ## Technologies
 
 #### Intermediate
-- Python
-  - Flask
 - Ruby
   - Sinatra
   - Rails
 - Java
+  - Spark
+  - Maven
 - Elixir
+- Python
+  - Flask
 - JavaScript
+  - jQuery
   - Node.js
     - Express.js
-  - AngularJS
-  - jQuery
-- HTML
+- HTML5
 - Markdown
-- CSS
+- CSS3
 - PostgreSQL
 - MacOS
 - Linux
 - Raspberry Pi
-- Git and GitHub
+- Version control
+  - Git and GitHub
 
 #### Beginner
-- Rust
-- Clojure
 - C#
 - Elm
 - Swift
 - Go
+- Rust
+- Clojure
 
 
 ## Experience
