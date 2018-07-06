@@ -24,7 +24,7 @@ My professional background is in hospitality and retail management, most recentl
 
 ## Education
 
-#### Makers Academy (May 2017 Cohort)
+#### Makers, formerly Makers Academy (May 2017 Cohort)
 
 - Learned and developed various professional skills and concepts
   - Unit testing
@@ -79,26 +79,25 @@ My professional background is in hospitality and retail management, most recentl
 
 **8th Light** (February 2018 - June 2018)<br>
 *Apprentice Software Crafter, full-time*<br>
-During my time as an apprentice at 8th Light I worked on a variety of programming paradigms: learning best-practices for functional programming, building on my existing knowledge of object-oriented programming, testing, exploring different typing disciplines etc. I left before completing my apprenticeship as decided the company was not a good culture fit.
+During my time as an apprentice at 8th Light I worked on a variety of programming paradigms: learning best-practices for functional programming, building on my existing knowledge of object-oriented programming, testing, exploring different typing disciplines etc. I left before completing my apprenticeship as I decided the company was not a good culture fit for me.
 
 **Makers Academy** (November 2017 - January 2018)<br>
 *Technical coach, part-time*<br>
-Held one-on-one sessions, two or three days a week, with recent Makers graduates to offer technical. support and advice on jobhunting.
+Held one-on-one sessions, two or three days a week, with recent Makers graduates to offer technical support and general advice on jobhunting.
 
 **Albam Clothing** (July 2015 - April 2017)</br>
 *Retail Operations Manager, full-time*</br>
 Responsible for all four of the companies' retail shops and all of the retail staff. Regular tasks and duties would involve
-processing payroll, hiring, training and occasionally disciplining staff, overseeing the eCommerce operation, general problem
-solving and troubleshooting.
+processing payroll, hiring, training and occasionally disciplining staff, overseeing the smooth running of the eCommerce operation, general problem solving and troubleshooting.
 
-**Metropolitan Police Service**</br>
+**Metropolitan Police Service**</br> (December 2010 - July 2014)
 *Special Police Constable, part-time volunteer*
 
 
 ## Interests
 
 History, politics, cooking, modern and contemporary art, Karate, 
-classic cars, Americana, photography, popular music, cinema.
+classic cars, Americana, photography, popular music, cinema, and detective novels.
 
 #
 
