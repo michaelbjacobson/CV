@@ -19,7 +19,7 @@ My professional background is in hospitality and retail management, prior to mov
 
 #### Communication
 
-- I have a great deal of experience working in customer-facing roles where good communication is absolutely vital. Not least during my four years of service in the Metropolitan Police Service.
+- I have a great deal of experience working in customer-facing roles where good communication is absolutely vital. Not least during my four years of service with the Metropolitan Police.
 
 
 ## Education
