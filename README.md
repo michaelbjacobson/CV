@@ -2,7 +2,7 @@
 
 [KEY SKILLS](#key-skills) | [EDUCATION](#education) | [TECHNOLOGIES](#technologies) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | <a href="https://michaeljacobson.co.uk"/>WEBSITE</a>
 
-My professional background is in hospitality and retail management, prior to moving into the tech industry, my most recent position was working as the Retail Operations Manager for a small, London-based menswear brand. Since early childhood (I grew up on my parents' Macintosh Performa 5200) I've loved computers and have had a fascination with coding. I've also always been passionate about building and fixing things, as well as taking them apart and trying to figure out what makes them tick. While feeling increasingly bored and under-challenged in my last job I had a eureka moment and decided that a career in software was for me. I succesfully applied to Makers Academy soon after this and am now thoroughly enjoying life as a software enginner.
+My professional background is in hospitality and retail management, prior to moving into the tech industry, my most recent position was working as the Retail Operations Manager for a small, London-based menswear brand. Since early childhood (I grew up on my parents' Macintosh Performa 5200) I've loved computers and have had a fascination with coding. I've also always been passionate about building and fixing things, as well as taking them apart and trying to figure out what makes them tick. While feeling increasingly bored and under-challenged in my last job I had a eureka moment and decided that a career in software was for me. I succesfully applied to Makers Academy soon after this, and am now thoroughly enjoying life as a software engineer.
 
 
 ## Key Skills
@@ -31,7 +31,7 @@ My professional background is in hospitality and retail management, prior to mov
   - SOLID principles
   - Object-Oriented Programming
   - Software Craftsmanship
-  - Elegant code
+  - Elegant, readable, and scalable code
   - Version control
   - Language agnosticism
 
@@ -83,7 +83,7 @@ During my time as an apprentice at 8th Light I worked on a variety of programmin
 
 **Makers Academy** (November 2017 - January 2018)<br>
 *Technical coach, part-time*<br>
-Held one-on-one sessions, two or three days a week, with recent Makers graduates to offer technical support and general advice on jobhunting.
+Held one-on-one coaching sessions, two or three days a week, with recent Makers graduates to offer technical assistance and general advice on jobhunting.
 
 **Albam Clothing** (July 2015 - April 2017)</br>
 *Retail Operations Manager, full-time*</br>
